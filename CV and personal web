@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+	<meta charset="utf-8">
+	<title></title>
+	</head>
+	<body>
+	
+	<h1><p align="center">My resume</p ></h1>（居中标题）
+	
+	<img src="">（个人照片）
+	<p> 
+	Hello,my name is caius,and my chinese is Dinglei.（自我介绍）
+	<table border="1">（表格）
+	<tr>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	</tr>
+	<tr>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	</tr>
+	<tr>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<tr>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	</table>
+	<h2>Caius would really like</h2>
+	<ul>（编号列表）
+  <li>basket</li>
+  <li>Magic tricks</li>
+  </ul>  
+ <hr>（页脚）
