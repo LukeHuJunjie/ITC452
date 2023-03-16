@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+	<meta charset="utf-8">
+	<title></title>
+	</head>
+	<body>
+	
+	<h1><p align="center">My resume</p ></h1>（居中标题）
+	
+	<img src="https://user-images.githubusercontent.com/127079053/225630602-a93258aa-c89d-49cf-8096-b13a5aa76033.jpg">（个人照片）
+	<p> 
+	Hello,my name is luke,and my chinese is Hujunjie.（自我介绍）
+	<table border="1">（表格）
+	<tr>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	</tr>
+	<tr>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	</tr>
+	<tr>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<tr>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	</table>
+	<h2>hobbies and interests</h2>
+	<ul>（编号列表）
+  <li>ride bicycle</li>
+  <li>listening some chinese tradition music</li>
+  </ul>  
+ <hr>（页脚）
+</body>
+</html>
